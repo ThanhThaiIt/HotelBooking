@@ -37,7 +37,7 @@ Updating...
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/nguyentrung875/luxurious.git
+git clone https://github.com/ThanhThaiIt/HotelBooking.git
 cd luxurious
 ```
 2. Run docker-compose
